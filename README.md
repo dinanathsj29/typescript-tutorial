@@ -10,7 +10,7 @@ Prerequisites for current course / What you need to know
 =====================
 `TypeScript` introduces us to the newest language features that can be used in JavaScript code. Due to this, I assume you have some working knowledge/understanding of JavaScript. If you haven't, will recommend watching [JavaScript Essentials Tutorial for beginners](https://github.com/dinanathsj29/javascript-beginners-tutorial). Basic knowledge of JavaScript is required, having a good understanding of OOP concepts and advanced JavaScript is an added advantage. Finally, you will be using a bit of Angular.js, React.js, and Node.js but nothing that requires deep/advanced knowledge. 
 
-Topics include ???
+Topics include
 ===================== 
 1. [Course Introduction](#section-1-course-introduction)
 2. [Introduction to Typescript](#section-2-introduction-to-typescript)
